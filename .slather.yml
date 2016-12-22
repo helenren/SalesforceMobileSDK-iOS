@@ -4,3 +4,4 @@ scheme: SalesforceAnalytics
 output_directory: test_report
 binary_basename: SalesforceAnalytics
 source_directory: libs/SalesforceAnalytics/SalesforceAnalytics/Classes
+coverage_access_token: ZMLmqGuydf5sg6XYUZ5kWIkt3viGT9428
