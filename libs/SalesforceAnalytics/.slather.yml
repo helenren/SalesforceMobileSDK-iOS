@@ -1,4 +1,3 @@
-coverage_service: coveralls
 workspace: SalesforceSDK
 xcodeproj: ./SalesforceAnalytics.xcodeproj
 scheme: SalesforceAnalytics
