@@ -1,5 +1,0 @@
-workspace: SalesforceSDK
-xcodeproj: ./SalesforceAnalytics.xcodeproj
-scheme: SalesforceAnalytics
-output_directory: ./test_report
-binary_basename: SalesforceAnalytics

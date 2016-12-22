@@ -1,0 +1,6 @@
+workspace: SalesforceSDK
+xcodeproj: libs/SalesforceAnalytics/SalesforceAnalytics.xcodeproj
+scheme: SalesforceAnalytics
+output_directory: test_report
+binary_basename: SalesforceAnalytics
+source_directory: libs/SalesforceAnalytics/SalesforceAnalytics/Classes
