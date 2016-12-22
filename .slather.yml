@@ -1,3 +1,4 @@
+ci_service: jenkins
 workspace: SalesforceSDK
 xcodeproj: libs/SalesforceAnalytics/SalesforceAnalytics.xcodeproj
 scheme: SalesforceAnalytics
