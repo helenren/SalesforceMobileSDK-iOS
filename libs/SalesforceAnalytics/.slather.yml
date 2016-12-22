@@ -1,0 +1,6 @@
+coverage_service: coveralls
+ci_service: jenkins
+workspace: SalesforceSDK
+xcodeproj: ./SalesforceAnalytics.xcodeproj
+scheme: SalesforceAnalytics
+output_directory: ./test_report
